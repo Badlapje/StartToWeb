@@ -1,0 +1,37 @@
+body {
+    font-family: 'Patua One', "Times New Roman", cursive;
+    font-size: 1.5rem;
+    color: #FFFFFF;
+    background-color: #000000;
+}
+
+h1 {
+
+    font-size: 3.5rem;
+    margin-bottom: 30px;
+}
+
+h1 span {
+    display: block;
+    color: yellow;
+}
+
+h2 {
+    margin-bottom:12px;
+}
+
+img {
+    max-width: 100%;
+}
+
+#container {
+    width: 760px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 60px;
+}
+
+.carousel {
+    overflow: hidden;
+    margin-bottom: 15px;
+}

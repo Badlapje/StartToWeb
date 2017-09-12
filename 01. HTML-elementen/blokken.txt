@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+</head>
+<body>
+Blokken
+
+Blokken zijn de basiseenheden in Minecraft, en zijn essentieel om Minecraft te spelen waarvoor het gemaakt is. Alle blokken samen bouwen de wereld van Minecraft en ze kunnen worden gewonnen en worden gebruikt op verschillende manieren.
+
+Het uiterlijk van één van de zijden van een blok bestaat uit 16 bij 16 pixels, en elk blok is in verhouding één kubieke meter. De meeste blokken hebben geen veranderend patroon, hoewel Water, Lava, Portaal en Vuur blokken dat wel hebben.
+
+
+Inhoud
+
+<!-- deze lijst mag je voorlopig negeren
+    1 Door de wereld gegenereerde blokken
+        1.1 De normale wereld
+            1.1.1 Natuurlijk Gegenereerd
+            1.1.2 niet zo zeldzaam
+            1.1.3 Natuurlijke Gebouwen
+        1.2 De Nether
+            1.2.1 Natuurlijk Gegenereerd
+            1.2.2 Natuurlijk Gemaakt
+            1.2.3 Natuurlijke Gebouwen
+    2 Aanvullende Informatie
+    3 Zie Ook
+    4 Trivia
+    5 Referenties
+-->
+
+
+</body>
+</html>

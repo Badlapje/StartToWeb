@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+</head>
+<body>
+	Minecraft
+
+Minecraft is een computerspel uit 2011. Het genre is sandbox en adventure. Het kan gespeeld worden in de modus singleplayer of de modus multiplayer.
+
+Bij dit spel kan men in een uitgestrekt gebied kubusvormige objecten plaatsen op een rooster. Het spel bouwt automatisch een omgeving, met grondstoffen, tegenstanders, dieren, tunnelsystemen, bergformaties en meren. De speler heeft een eigen avatar, waarmee hij de omgeving actief kan aanpassen.
+
+Het spel kan op een server, met een LAN-verbinding of offline worden gespeeld; in het laatste geval door het (tegen betaling) te downloaden van de officiële website van Minecraft. De betaalde versie op de pc is inmiddels al meer dan 24 miljoen keer verkocht en is intussen over alle platformen meer dan 110 miljoen keer verkocht[1]
+
+Minecraft is geschreven in Java en het werd aanvankelijk ontwikkeld door de Zweed Markus Persson (alias Notch) en tegenwoordig door het door hem opgerichte bedrijf, Mojang AB. De officiële versie is in Nederland uitgekomen op 18 november 2011. Het werd gepresenteerd tijdens een conventie voor Minecraftspelers, genaamd MineCon 2011.[2]
+
+Inhoud
+<!-- deze lijst mag je voorlopig negeren 
+
+1 Het spel
+1.1 Survival
+1.2 Classic/Creative
+2 Werelden
+2.1 De normale wereld
+2.2 Nether
+2.3 The End
+2.4 The Void
+3 Mobs
+4 Platforms
+5 Servers
+6 Soundtrack
+7 Galerij
+8 Externe links
+-->
+
+Het spel
+
+Minecraft is een zogenaamd openwereldspel, waarbij de speler vrij rond kan lopen door een virtuele wereld, zonder een vooraf vastgesteld doel. Het belangrijkste kenmerk van het spel is het reizen door en ontdekken van grotten en kerkers en het bouwen van gebouwen en voorzieningen. De speler kan grondstoffen delven, deze tot andere voorwerpen verwerken en vechten tegen monsters (mobs).
+
+Ook zijn er enkele speciale mogelijkheden, zoals het maken van automatische verbindingen door middel van redstone, en kunnen gereedschappen van een betovering (enchantment) worden voorzien. De betoveringen zijn door het spel bepaald, maar de mogelijkheden van redstone zijn bijna onbeperkt. Er kunnen bijvoorbeeld zeer complexe dingen, zoals echt werkende rekenmachines en robot-achtige constructies mee gemaakt worden.
+
+Minecraft kent verschillende dimensies. De Nether, geïmplementeerd in de Alpha-versie op 30 oktober 2010, is de eerste extra dimensie die in Minecraft werd gemaakt. Later waren er plannen om een droomwereld toe te voegen, alhoewel dat uiteindelijk The End is geworden.
+Survival
+
+De standaardmodus om Minecraft te spelen is "survival", wat inhoudt dat de speler in een bepaalde wereld moet zien te overleven. Om in leven te blijven moet de speler op zoek gaan naar voedsel, dat verkregen kan worden door bijvoorbeeld dieren te slachten of graan en groente te verbouwen. Ook moet de speler zich verdedigen tegen vijandelijke mobs die 's nachts ontstaan en de speler proberen te doden. In de survivalmodus zal de speler zelf bouwmaterialen moeten verzamelen door het omhakken van bomen en het uithakken van gesteenten.
+Classic/Creative
+
+De andere Minecraftspelversie heet "Classic", ook bekend als creatief (creative). Hierbij is er geen limiet aan de beschikbare bouwmaterialen, zodat deze niet opgegraven of gezocht hoeven te worden. Ook heeft de speler in deze versie extra mogelijkheden, zoals vliegen, kan hij niet aangevallen worden door vijandelijke mobs, of doodgaan in lava of door een fatale val.
+
+Werelden
+De normale wereld
+
+Dit is de wereld waar de speler begint en waar het personage leeft. De normale wereld bestaat uit verschillende zogeheten biomes, elk met hun eigen soort landschap en begroeiing. Zo zijn er gemengde loofbossen, berken-, eiken- en dennebossen, junglebossen, woestijnen, berglandschappen, savannes, taiga's en oceanen waarin soms een mushroom island voorkomt. In de normale wereld zijn er ook verschillende weersomstandigheden: het kan regenen en onweren en in sommige gebieden sneeuwen.
+
+In deze landschappen komen zo nu en dan door het spel gegenereerde bouwwerken voor, zoals dorpjes, woestijn-, jungle- en onderwatertempels en onder de grond zogeheten spawners waarin vijandelijke mobs ontstaan. De dorpjes worden bevolkt door dorpelingen, waarmee de speler handel kan drijven door dingen te ruilen.
+Nether
+
+Sinds Halloween 2010 is het mogelijk om naar de Nether te reizen. De Nether wordt - net zoals de gewone wereld - willekeurig gegenereerd. Om in de Nether te komen moet de speler een portaal maken van obsidiaan en dat in brand steken, waardoor dan een paars portaal ontstaat. Als de speler gedurende vijf seconden in dat veld staat reist hij naar de Nether. Op de plek waar men terechtkomt in de Nether staat een portaal waarmee men weer terug naar de normale wereld kan reizen. Dit portaal ziet er hetzelfde uit als het portaal om naar de Nether toe te gaan. Er zijn minder verschillende soorten blokken aanwezig in deze dimensie dan in de normale dimensie.
+
+Daarnaast zijn er vier verschillende wezens die leven in de Nether: Ghasts (vliegende, vuurbalspuwende wezens), zombievarkens (passief totdat ze worden aangevallen en als de speler er een raakt komen ze allemaal op hem af), Blazes (vliegende beesten die vuur naar de speler toe spuwen en die afkomstig zijn van monsterspawner) en magmakubussen, een soort slijmkubus die hoog kan springen met een springveer.
+
+Vanaf Beta 1.6 is de Nether ook toegankelijk in multiplayer.
+
+The End
+
+Sinds de vierde prerelease van Beta 1.9 kan men naar The End (soms The Ender genoemd). Het is een duistere wereld van vliegende eilanden van endsteen, waar pilaren van obsidiaan op staan. Verder zijn er veel endermannen, en sinds Beta 1.9 prerelease 6 is er ook een Enderdraak, een nieuwe soort tegenstander. Spelers kunnen The End alleen verlaten door dood te gaan of de Enderdragon te verslaan. Als de speler voor de laatst genoemde optie kiest dan heeft de speler het spel "uitgespeeld" en volgt de aftiteling.[3]
+
+Aanvankelijk was ontwikkelaar Persson medio mei begonnen met het ontwikkelen van een droomwereld, gedoopt tot de Sky Dimension. Hoewel de code al volledig functioneel was, gaf Persson aan dat hij het er lelijk uit vond zien.[4] Aan de screenshots te zien waren de grondstoffen vrijwel hetzelfde als in de normale wereld. Persson speculeerde dat zodra de speler ging slapen in zijn bed, er een geringe kans was dat hij of zij in de droomwereld, oftewel de Sky Dimension terecht zou komen. Aan de schermafbeeldingen is ook te zien dat de Sky Dimension ver boven de wolkenlaag ligt, te ver om te bereiken in de normale wereld. Wellicht zou de speler in theorie gewoon van een zwevend eiland naar de normale wereld kunnen springen, en héél misschien ook weer terug. In de toekomst heeft Persson wel het plan om de Sky Dimension toch volgens het oude concept in te voeren, dit in tegenstelling tot veel spelers die denken dat The End de Sky Dimension vervangt. Vanaf Beta 1.6 zat de Sky Dimension ook daadwerkelijk in de broncode van Minecraft, maar kan nog niet op legale wijze worden betreden. Wel is er een modificatie te downloaden die één bestand in de broncode verandert, zodat de werelden standaard als een Sky Dimension worden gegenereerd.
+The Void
+
+"The Void" (de leegte) is de laag onder de bodemsteen die alleen bereikbaar is door de onderste laag te breken, dit is alleen mogelijk in de creative-modus. Als de onderste laag is gebroken, valt de speler naar beneden en gaat hij dood. Dit is tevens de enige manier om dood te gaan in de creative-modus, maar de speler kan wel vliegen in The Void. Als hij te ver naar beneden valt zal hij wel dood gaan. The Void is ook te vinden boven de reeds beschreven Nether.
+Mobs
+
+De dieren en monsters die men tegenkomt in het spel worden vaak mobs genoemd. Dit is de afkorting van het Engelse woord mobiles, dat soms in de spelindustrie wordt gebruikt als term voor beweegbare wezens. Sommige mobs zijn vriendelijk, sommige zijn neutraal en andere zijn vijandig.
+
+Vriendelijke mobs zijn bijvoorbeeld varkens, koeien, schapen, vissen en inktvissen. In latere versies van Minecraft zijn hier ook paarden, konijnen en lamas bij gekomen. De meeste hiervan kunnen door de speler gefokt worden door ze te vangen en voedsel te geven. Deze dieren kunnen de speler dan van vlees, leer, wol e.d. voorzien.
+
+Neutrale mobs zijn sneeuwpoppen en ijzeren golems, die de speler alleen aanvallen wanneer de speler eerst deze mobs heeft aangevallen. Dit geldt ook voor spinnen overdag.
+
+Vijandige mobs zijn bijvoorbeeld zombies, skeletten, creepers, spinnen en heksen. De vijandige mobs vallen uit zichzelf spelers aan, en als deze zich niet verdedigt of vlucht, zal hij daaraan doodgaan. Spinnen vallen echter alleen 's nachts aan, overdag gedragen zij zich als neutrale mobs. In de Nether zijn er andere vijandige mobs (zie aldaar).
+
+Herobrine is een figuur die algemeen bekend is bij Minecraftspelers, maar niet in het spel voorkomt. Hij verscheen voor het eerst in een plaatje op 4chan en zou in Minecraftwerelden vreemde constructies bouwen.[5] Mojang heeft echter laten weten dat Herobrine nooit heeft bestaan en ook niet zal worden toegevoegd.[6]
+Platforms
+
+Minecraft kwam origineel uit voor Java-ondersteunende platforms; Microsoft Windows, Mac OS X en Linux.
+
+De "Pocket Edition"[7] kwam op 16 augustus 2011 uit voor de Sony Xperia Play. Deze is uitsluitend in Classic mode beschikbaar. Op 17 november kwam Pocket Edition uit voor de iPhone en de rest van de Android & iOS toestellen.
+
+De "Xbox 360 Edition" was aangekondigd op E3 en is uitgekomen op 9 mei 2012.[8][9] In de Xbox 360-versie zal men met de normale controller spelen alsmede met de Kinect.[10][11] Deze Xbox-versie wordt niet ontwikkeld door Mojang maar door 4J Studios;[12][13] Persson heeft wel gezegd dat hij de Game Designer is en blijft.[14] In de Xbox 360 kan tot vier spelers split screen worden gespeeld. Gaming website XGN beoordeelde de Xbox 360-versie met een 9,2 in de recensie.[15]
+
+<!-- deze tabel mag je voorlopig negeren 
+
+Jaar 	Platform
+2010 	Browser, Linux, OS X, Windows
+2011 	Android, IOS
+2012 	Xbox 360
+2013 	PlayStation 3, Raspberry Pi
+2014 	PlayStation 4, Xbox One, PlayStation Vita, Windows Phone
+2015 	Windows 10, Wii U
+-->
+
+Servers
+
+Een andere mogelijkheid van Minecraft is het maken van een multiplayerserver, zodat meerdere spelers tegelijk in eenzelfde wereld kunnen spelen. Een dergelijke server wordt bestuurd vanuit één punt, meestal een computer of een dedicated server. Afhankelijk van de capaciteit kan een server van een tiental tot enkele honderden spelers tegelijk toelaten.
+
+Het houden van een multiplayerserver maakt ook het mogelijk om, net zoals met een aantal modificaties in de singleplayer, spullen te creëren zonder ze ook werkelijk op te graven of te maken. Een van de meest gebruikte server mods voor Minecraft is de Bukkit server.
+
+Externe links
+
+<!-- tip: als je geen url hebt voor een link gebruik dan gewoon "#" als waarde voor het href attribuut -->
+
+    (en) Officiële website van Minecraft
+    (nl) Nederlandstalige Minecraft-Wiki
+    (en) Populairste Minecraft Creative Community Fansite
+
+Bronnen, noten en/of referenties
+Minecraftstatistieken
+"The Word of Notch" van 11 mei 2011
+http://www.minecraftwiki.net/wiki/The_End
+https://twitter.com/Notch/status/70938915862884352
+Dean, Paul. Hauntings and Hoaxes: Gamings Weirdest Ghost Stories. IGN Geraadpleegd op July 1, 2013
+Adams, Nathan. Dinnerbone: @Kizzycocoa We have no plans .... Twitter (August 22, 2012) Geraadpleegd op July 18, 2013
+Pocket Edition Reveal
+Xbox Release in de winter (Markus Persson Twitter)
+Xbox Release in de winter (Daniel Frisk Twitter)
+Minecraft Kinect en Controller
+Minecraft met Kinect
+Ontwikkelaars voor de Xbox versie Part 1
+Ontwikkelaars voor Xbox versie Part 2
+Notch blijft Game Designer Xbox versie
+Minecraft (Recensie) op XGN.nl
+Soundtrack Minecraft - Volume Alpha op BandCamp
+Soundtrack Minecraft - Volume Beta op BandCamp
+</body>
+</html>

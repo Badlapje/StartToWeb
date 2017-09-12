@@ -1,0 +1,116 @@
+<table style="margin:2px; border: 1px solid silver; text-align: center;" align="left">
+<tbody><tr>
+<th>Icon</th>
+<th>Dec</th>
+<th>Hex</th>
+<th>Block type</th>
+</tr>
+<tr>
+<td height="27px"></td>
+<td><span style="color:red">00</span></td>
+<td><span style="color:red">00</span></td>
+<td><a href="/Lucht" title="Lucht">Lucht</a></td>
+</tr>
+<tr>
+<td height="27px"><a href="/Bestand:Stone.png" class="image"><img alt="Stone.png" src="https://minecraft-nl.gamepedia.com/media/minecraft-nl.gamepedia.com/thumb/d/d4/Stone.png/25px-Stone.png?version=1807cb106e90d86841491ed453bccc60" srcset="https://minecraft-nl.gamepedia.com/media/minecraft-nl.gamepedia.com/thumb/d/d4/Stone.png/38px-Stone.png?version=1807cb106e90d86841491ed453bccc60 1.5x, https://minecraft-nl.gamepedia.com/media/minecraft-nl.gamepedia.com/thumb/d/d4/Stone.png/50px-Stone.png?version=1807cb106e90d86841491ed453bccc60 2x" width="25" height="25"></a></td>
+<td>01</td>
+<td>01</td>
+<td><a href="/Steen" title="Steen">Steen</a></td>
+</tr>
+<tr>
+<td height="27px"><a href="/Bestand:Grass.png" class="image"><img alt="Grass.png" src="https://minecraft-nl.gamepedia.com/media/minecraft-nl.gamepedia.com/thumb/c/c5/Grass.png/25px-Grass.png?version=e62b3f611ea18ba2db32a6b100a6a74b" srcset="https://minecraft-nl.gamepedia.com/media/minecraft-nl.gamepedia.com/thumb/c/c5/Grass.png/38px-Grass.png?version=e62b3f611ea18ba2db32a6b100a6a74b 1.5x, https://minecraft-nl.gamepedia.com/media/minecraft-nl.gamepedia.com/thumb/c/c5/Grass.png/50px-Grass.png?version=e62b3f611ea18ba2db32a6b100a6a74b 2x" width="25" height="25"></a></td>
+<td><span style="color:green">02</span></td>
+<td><span style="color:green">02</span></td>
+<td><a href="/Grasblok" title="Grasblok">Grasblok</a></td>
+</tr>
+<tr>
+<td height="27px"><a href="/Bestand:Dirt.png" class="image"><img alt="Dirt.png" src="https://minecraft-nl.gamepedia.com/media/minecraft-nl.gamepedia.com/thumb/2/2f/Dirt.png/25px-Dirt.png?version=b74934e6f4eac92441a5f4bd0c9b4554" srcset="https://minecraft-nl.gamepedia.com/media/minecraft-nl.gamepedia.com/thumb/2/2f/Dirt.png/38px-Dirt.png?version=b74934e6f4eac92441a5f4bd0c9b4554 1.5x, https://minecraft-nl.gamepedia.com/media/minecraft-nl.gamepedia.com/thumb/2/2f/Dirt.png/50px-Dirt.png?version=b74934e6f4eac92441a5f4bd0c9b4554 2x" width="25" height="25"></a></td>
+<td>03</td>
+<td>03</td>
+<td><a href="/Aarde" title="Aarde">Aarde</a></td>
+</tr>
+<tr>
+<td height="27px"><a href="/Bestand:Bedrock.png" class="image"><img alt="Bedrock.png" src="https://minecraft-nl.gamepedia.com/media/minecraft-nl.gamepedia.com/thumb/e/ee/Bedrock.png/25px-Bedrock.png?version=b2403ba9348f2e61e29094d1f80ce967" srcset="https://minecraft-nl.gamepedia.com/media/minecraft-nl.gamepedia.com/thumb/e/ee/Bedrock.png/38px-Bedrock.png?version=b2403ba9348f2e61e29094d1f80ce967 1.5x, https://minecraft-nl.gamepedia.com/media/minecraft-nl.gamepedia.com/thumb/e/ee/Bedrock.png/50px-Bedrock.png?version=b2403ba9348f2e61e29094d1f80ce967 2x" width="25" height="25"></a></td>
+<td><span style="color:blue">07</span></td>
+<td><span style="color:blue">07</span></td>
+<td><a href="/Bodemsteen" title="Bodemsteen">Bodemsteen</a></td>
+</tr>
+<tr>
+<td height="27px"><a href="/Bestand:Water.png" class="image"><img alt="Water.png" src="https://minecraft-nl.gamepedia.com/media/minecraft-nl.gamepedia.com/thumb/9/9d/Water.png/25px-Water.png?version=f29ca4eb5e7a2829e994f7138d0abcee" srcset="https://minecraft-nl.gamepedia.com/media/minecraft-nl.gamepedia.com/thumb/9/9d/Water.png/38px-Water.png?version=f29ca4eb5e7a2829e994f7138d0abcee 1.5x, https://minecraft-nl.gamepedia.com/media/minecraft-nl.gamepedia.com/thumb/9/9d/Water.png/50px-Water.png?version=f29ca4eb5e7a2829e994f7138d0abcee 2x" width="25" height="25"></a></td>
+<td><span style="color:red">08</span></td>
+<td><span style="color:red">08</span></td>
+<td><a href="/Water" title="Water">Water</a> <sup><a href="/Datawaardes#Water_en_Lava" title="Datawaardes">D</a></sup></td>
+</tr>
+<tr>
+<td height="27px"><a href="/Bestand:Lava.png" class="image"><img alt="Lava.png" src="https://minecraft-nl.gamepedia.com/media/minecraft-nl.gamepedia.com/thumb/2/27/Lava.png/25px-Lava.png?version=78b8e853b2a21ee5cb09ea31d9261b80" srcset="https://minecraft-nl.gamepedia.com/media/minecraft-nl.gamepedia.com/thumb/2/27/Lava.png/38px-Lava.png?version=78b8e853b2a21ee5cb09ea31d9261b80 1.5x, https://minecraft-nl.gamepedia.com/media/minecraft-nl.gamepedia.com/thumb/2/27/Lava.png/50px-Lava.png?version=78b8e853b2a21ee5cb09ea31d9261b80 2x" width="25" height="25"></a></td>
+<td><span style="color:red">10</span></td>
+<td><span style="color:red">0A</span></td>
+<td><a href="/Lava" title="Lava">Lava</a> <sup><a href="/Datawaardes#Water_en_Lava" title="Datawaardes">D</a></sup></td>
+</tr>
+<tr>
+<td height="27px"><a href="/Bestand:Sand.png" class="image"><img alt="Sand.png" src="https://minecraft-nl.gamepedia.com/media/minecraft-nl.gamepedia.com/thumb/a/a7/Sand.png/25px-Sand.png?version=c3d20371ae507fa2b41c4724611b712b" srcset="https://minecraft-nl.gamepedia.com/media/minecraft-nl.gamepedia.com/thumb/a/a7/Sand.png/38px-Sand.png?version=c3d20371ae507fa2b41c4724611b712b 1.5x, https://minecraft-nl.gamepedia.com/media/minecraft-nl.gamepedia.com/thumb/a/a7/Sand.png/50px-Sand.png?version=c3d20371ae507fa2b41c4724611b712b 2x" width="25" height="25"></a></td>
+<td>12</td>
+<td>0C</td>
+<td><a href="/Zand" title="Zand">Zand</a></td>
+</tr>
+<tr>
+<td height="27px"><a href="/Bestand:Gravel.png" class="image"><img alt="Gravel.png" src="https://minecraft-nl.gamepedia.com/media/minecraft-nl.gamepedia.com/thumb/9/9a/Gravel.png/25px-Gravel.png?version=ab4d5997185048ee2e216477071bd06a" srcset="https://minecraft-nl.gamepedia.com/media/minecraft-nl.gamepedia.com/thumb/9/9a/Gravel.png/38px-Gravel.png?version=ab4d5997185048ee2e216477071bd06a 1.5x, https://minecraft-nl.gamepedia.com/media/minecraft-nl.gamepedia.com/thumb/9/9a/Gravel.png/50px-Gravel.png?version=ab4d5997185048ee2e216477071bd06a 2x" width="25" height="25"></a></td>
+<td>13</td>
+<td>0D</td>
+<td><a href="/Grind" title="Grind">Grind</a></td>
+</tr>
+<tr>
+<td height="27px"><a href="/Bestand:Gold_(Ore).png" class="image"><img alt="Gold (Ore).png" src="https://minecraft-nl.gamepedia.com/media/minecraft-nl.gamepedia.com/thumb/3/39/Gold_%28Ore%29.png/25px-Gold_%28Ore%29.png?version=a2c7dc35fd7f55a75b773b7d9697ab97" srcset="https://minecraft-nl.gamepedia.com/media/minecraft-nl.gamepedia.com/thumb/3/39/Gold_%28Ore%29.png/38px-Gold_%28Ore%29.png?version=a2c7dc35fd7f55a75b773b7d9697ab97 1.5x, https://minecraft-nl.gamepedia.com/media/minecraft-nl.gamepedia.com/thumb/3/39/Gold_%28Ore%29.png/50px-Gold_%28Ore%29.png?version=a2c7dc35fd7f55a75b773b7d9697ab97 2x" width="25" height="25"></a></td>
+<td>14</td>
+<td>0E</td>
+<td><a href="/Gouderts" title="Gouderts">Gouderts</a></td>
+</tr>
+<tr>
+<td height="27px"><a href="/Bestand:Iron_(Ore).png" class="image"><img alt="Iron (Ore).png" src="https://minecraft-nl.gamepedia.com/media/minecraft-nl.gamepedia.com/thumb/a/a8/Iron_%28Ore%29.png/25px-Iron_%28Ore%29.png?version=59dee5bb87e0537dea5a65038ab41f36" srcset="https://minecraft-nl.gamepedia.com/media/minecraft-nl.gamepedia.com/thumb/a/a8/Iron_%28Ore%29.png/38px-Iron_%28Ore%29.png?version=59dee5bb87e0537dea5a65038ab41f36 1.5x, https://minecraft-nl.gamepedia.com/media/minecraft-nl.gamepedia.com/thumb/a/a8/Iron_%28Ore%29.png/50px-Iron_%28Ore%29.png?version=59dee5bb87e0537dea5a65038ab41f36 2x" width="25" height="25"></a></td>
+<td>15</td>
+<td>0F</td>
+<td><a href="/IJzererts" title="IJzererts">IJzererts</a></td>
+</tr>
+<tr>
+<td height="27px"><a href="/Bestand:Coal_(Ore).png" class="image"><img alt="Coal (Ore).png" src="https://minecraft-nl.gamepedia.com/media/minecraft-nl.gamepedia.com/thumb/4/40/Coal_%28Ore%29.png/25px-Coal_%28Ore%29.png?version=1f75433ae1f723a3b7f0a1467d1c9bc0" srcset="https://minecraft-nl.gamepedia.com/media/minecraft-nl.gamepedia.com/thumb/4/40/Coal_%28Ore%29.png/38px-Coal_%28Ore%29.png?version=1f75433ae1f723a3b7f0a1467d1c9bc0 1.5x, https://minecraft-nl.gamepedia.com/media/minecraft-nl.gamepedia.com/thumb/4/40/Coal_%28Ore%29.png/50px-Coal_%28Ore%29.png?version=1f75433ae1f723a3b7f0a1467d1c9bc0 2x" width="25" height="25"></a></td>
+<td><span style="color:green">16</span></td>
+<td><span style="color:green">10</span></td>
+<td><a href="/Steenkoolerts" title="Steenkoolerts">Steenkoolerts</a></td>
+</tr>
+<tr>
+<td height="27px"><a href="/Bestand:Wood.png" class="image"><img alt="Wood.png" src="https://minecraft-nl.gamepedia.com/media/minecraft-nl.gamepedia.com/thumb/d/df/Wood.png/25px-Wood.png?version=7bc87e3aa67db87f51d59fd293f18f27" srcset="https://minecraft-nl.gamepedia.com/media/minecraft-nl.gamepedia.com/thumb/d/df/Wood.png/38px-Wood.png?version=7bc87e3aa67db87f51d59fd293f18f27 1.5x, https://minecraft-nl.gamepedia.com/media/minecraft-nl.gamepedia.com/thumb/d/df/Wood.png/50px-Wood.png?version=7bc87e3aa67db87f51d59fd293f18f27 2x" width="25" height="25"></a></td>
+<td>17</td>
+<td>11</td>
+<td><a href="/Hout" title="Hout">Hout</a> <sup><a href="/Datawaardes#Hout" title="Datawaardes">D</a> <a href="/Datawaardes#hout" title="Datawaardes">B</a></sup></td>
+</tr>
+<tr>
+<td height="27px"><a href="/Bestand:Leaves.gif" class="image"><img alt="Leaves.gif" src="https://minecraft-nl.gamepedia.com/media/minecraft-nl.gamepedia.com/thumb/7/7b/Leaves.gif/25px-Leaves.gif?version=a1ab9ba6dd01318b2cf61be44135bf34" srcset="https://minecraft-nl.gamepedia.com/media/minecraft-nl.gamepedia.com/thumb/7/7b/Leaves.gif/38px-Leaves.gif?version=a1ab9ba6dd01318b2cf61be44135bf34 1.5x, https://minecraft-nl.gamepedia.com/media/minecraft-nl.gamepedia.com/thumb/7/7b/Leaves.gif/50px-Leaves.gif?version=a1ab9ba6dd01318b2cf61be44135bf34 2x" width="25" height="25"></a></td>
+<td>18</td>
+<td>12</td>
+<td><a href="/Bladeren" title="Bladeren">Bladeren</a> <sup><a href="/Datawaardes#Bladeren" title="Datawaardes">D</a> <a href="/Datawaardes#bladeren" title="Datawaardes">B</a></sup></td>
+</tr>
+<tr>
+<td height="27px"><a href="/Bestand:Lapis_Lazuli_(Ore).png" class="image"><img alt="Lapis Lazuli (Ore).png" src="https://minecraft-nl.gamepedia.com/media/minecraft-nl.gamepedia.com/thumb/c/cf/Lapis_Lazuli_%28Ore%29.png/25px-Lapis_Lazuli_%28Ore%29.png?version=4a7e39a2f98da7a72c0ecd23a3e9756d" srcset="https://minecraft-nl.gamepedia.com/media/minecraft-nl.gamepedia.com/thumb/c/cf/Lapis_Lazuli_%28Ore%29.png/38px-Lapis_Lazuli_%28Ore%29.png?version=4a7e39a2f98da7a72c0ecd23a3e9756d 1.5x, https://minecraft-nl.gamepedia.com/media/minecraft-nl.gamepedia.com/thumb/c/cf/Lapis_Lazuli_%28Ore%29.png/50px-Lapis_Lazuli_%28Ore%29.png?version=4a7e39a2f98da7a72c0ecd23a3e9756d 2x" width="25" height="25"></a></td>
+<td><span style="color:green">21</span></td>
+<td><span style="color:green">15</span></td>
+<td><a href="/Lapis_Lazuli-erts" title="Lapis Lazuli-erts">Lapis Lazuli-erts</a></td>
+</tr>
+<tr>
+<td height="27px"><a href="/Bestand:Sandstone.png" class="image"><img alt="Sandstone.png" src="https://minecraft-nl.gamepedia.com/media/minecraft-nl.gamepedia.com/thumb/d/d6/Sandstone.png/25px-Sandstone.png?version=480535a3a3b74e02a12b8277ac79a3db" srcset="https://minecraft-nl.gamepedia.com/media/minecraft-nl.gamepedia.com/thumb/d/d6/Sandstone.png/38px-Sandstone.png?version=480535a3a3b74e02a12b8277ac79a3db 1.5x, https://minecraft-nl.gamepedia.com/media/minecraft-nl.gamepedia.com/thumb/d/d6/Sandstone.png/50px-Sandstone.png?version=480535a3a3b74e02a12b8277ac79a3db 2x" width="25" height="25"></a></td>
+<td>24</td>
+<td>18</td>
+<td><a href="/Zandsteen" title="Zandsteen">Zandsteen</a></td>
+</tr>
+<tr>
+<td height="27px"><a href="/Bestand:Tall_Grass.png" class="image"><img alt="Tall Grass.png" src="https://minecraft-nl.gamepedia.com/media/minecraft-nl.gamepedia.com/thumb/0/01/Tall_Grass.png/25px-Tall_Grass.png?version=13ede74f5f3c18112552db68342b3d19" srcset="https://minecraft-nl.gamepedia.com/media/minecraft-nl.gamepedia.com/thumb/0/01/Tall_Grass.png/38px-Tall_Grass.png?version=13ede74f5f3c18112552db68342b3d19 1.5x, https://minecraft-nl.gamepedia.com/media/minecraft-nl.gamepedia.com/thumb/0/01/Tall_Grass.png/50px-Tall_Grass.png?version=13ede74f5f3c18112552db68342b3d19 2x" width="25" height="21"></a></td>
+<td>31</td>
+<td>1F</td>
+<td><a href="/Hoog_gras" title="Hoog gras">Hoog gras</a> <sup><a href="/Datawaardes#Lang_Gras" title="Datawaardes">D</a> <a href="/Datawaardes#Hout" title="Datawaardes">B</a></sup></td>
+</tr>
+<tr>
+<td height="27px"><a href="/Bestand:Grid_Dode_struik.png" class="image"><img alt="Grid Dode struik.png" src="https://minecraft-nl.gamepedia.com/media/minecraft-nl.gamepedia.com/thumb/e/e0/Grid_Dode_struik.png/25px-Grid_Dode_struik.png?version=bc2c0f845823f66a9fc5652d26f87ff6" srcset="https://minecraft-nl.gamepedia.com/media/minecraft-nl.gamepedia.com/e/e0/Grid_Dode_struik.png?version=bc2c0f845823f66a9fc5652d26f87ff6 1.5x" width="25" height="25"></a></td>
+<td><span style="color:blue">32</span></td>
+<td><span style="color:blue">20</span></td>
+<td><a href="/Dode_struik" title="Dode struik">Dode struik</a></td>
+</tr>
+</tbody></table>
