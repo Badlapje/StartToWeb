@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+</head>
+<body>
+	Voorwerpen
+
+Voorwerpen zijn objecten die alleen bestaan in de inventaris en handen van de speler - dus, ze kunnen niet geplaatst worden in een Minecraft wereld. Sommige voorwerpen "plaatsen" gewoonweg blokken of entiteit in een Minecraft wereld als ze gebruikt worden. Ze zijn dus een voorwerp als ze in de inventaris zijn, en een blok als ze geplaatst zijn. Sommige voorbeelden van objecten die deze eigenschappen uitvoeren zijn voorwerplijsten, die in een entiteit veranderen als ze geplaatst zijn, en bedden, die in een groep van blokken veranderen als ze geplaatst zijn. Als ze vastgehouden worden, voorwerpen (en blokken) geven kort hun namen boven de HUD weer.
+
+Voorwerpen gebruiken voorwerp ID's, terwijl blokken blok ID's gebruiken.
+Typen
+
+    Materialen worden alleen gebruikt om andere materialen of voorwerpen te maken. Ze dienen dus als ingrediënt.
+        Sommige ruwe materialen kunnen alleen worden verkregen als beloning voor het doden van mobs.
+        Andere kunnen een delfstof zijn of het product zijn van een craft- of smeltproces.
+
+    Voedsel kan gevonden of gemaakt worden door de speler, en wordt gegeten om Half Hunger.svg terug te krijgen.
+
+    Planten (en paddenstoelen ) groeien boven- of ondergronds en kunnen worden geplukt en opgepakt. Als ze zijn verzameld is het mogelijk om ze op een andere plaats terug te zetten, als die plek voldoet aan de eisen die de plant stelt aan zijn omgeving (zoals grondsoort of lichtniveau).
+
+    Gereedschap wordt over het algemeen gebruikt om blokken sneller kapot te maken en zijn nodig om bepaalde blokken in het inventaris te krijgen, aangezien dat niet altijd gebeurt bij het hakken zonder gereedschap.
+        Emmers kunnen vloeistoffen vervoeren zoals Melk, Water en Lava.
+        Vishengels kunnen gebruikt worden om vis te vangen.
+        Zadels kunnen gebruikt worden om varkens te berijden, en ook om op paarden te rijden (sinds 1.6).
+        Vuurslagen (Engels: flint and steel) kunnen worden gebruikt om vuur te ontsteken op blokken, met variërend resultaat, en is nodig om een portaal naar de Nether te creëren.
+        Scharen worden gebruikt om schapen te scheren en bladeren van bomen af te snoeien en ze op te kunnen pakken.
+        Zie voor een volledige lijst de pagina gereedschap
+
+    Informatieve voorwerpen helpen de speler door informatie te geven over wanneer de zon ondergaat (klok), of om de weg terug te vinden (kompas en kaart)
+
+    Wapens worden gebruikt om de speler te verdedigen tegen vijandige mobs of om passieve mobs te doden voor hun voedsel en materiaal.
+
+    Wapenuitrusting zorgt voor bescherming van de speler, zodat deze minder schade oploopt. Dit is nuttig bij elke soort van schade, behalve verstikking. Een complete set bestaat uit
+        Een helm
+        Een borstplaat
+        Beenbeschermers
+        Laarzen
+
+    Voertuigen zorgen voor snellere transportatie op het land of in het water. De enige voertuigen die nu in het spel zitten zijn boten en mijnkarren. Er zijn ook mods die andere voertuigen toevoegen aan het spel, o.a. treinen (train mod), auto's (car mod) en vliegtuigen (plane mod).
+
+    Decoraties zijn voorwerpen die puur voor kunstzinnige doeleinden worden gebruikt. Voorbeelden hiervan zijn schilderijen en geverfde wol.
+
+
+
+
+Emmer
+
+Emmer is gereedschap dat wordt gebruikt voor het dragen van water, lava of melk. Water en lava emmers kunnen alleen verkregen worden door het rechts klikken op water- of lavabron. Wat van de bron af loopt kan niet worden verzameld. Emmers met melk kunnen worden verkregen door rechts te klikken op een koe.
+
+Als iemand onderwater is en hij beweegt voorwaarts, zal het vullen van een lege emmer voor een tijdelijke luchtbel zorgen. Dit is genoeg om de luchtmeter bij te vullen, wat ervoor zorgt dat iemand eeuwig onderwater kan blijven. Het water kan gewoon weer omgegooid worden om de emmer leeg te krijgen. Emmers kunnen gemaakt worden met ijzer of gevonden worden in kerkers. Er is een 80% kans om een emmer te vinden in een schatkist in een kerker.
+
+Inhoud
+
+    1 Gebruik
+    2 Types emmers
+    3 Kijk ook eens naar
+
+Gebruik
+
+Een emmer is een gereedschap dat gebruikt kan worden voor het vervoeren of opslaan van water, melk of lava. Emmers met water kunnen gebruikt worden om vuren te doven in een noodgeval, en om meren in te polderen en te vullen.
+
+Emmers kunnen ook worden gebruikt als een duik hulpmiddel. Door recht naar beneden te richten en de emmer te vullen, zal de speler omgeven worden door lucht voor een korte tijd, en dus de lucht meter van de speler bij te vullen.
+
+Types emmers
+
+    Emmer met water - bevat een blok waterbron
+    Emmer met lava - bevat een blok lavabron
+    Emmer met melk - wordt gebruikt om taart te maken. Melk kan gebruikt worden om te genezen van vergif en het direct stoppen van drank effecten.
+
+Kijk ook eens naar
+
+    Ketel
+    Kom
+    Glazen fles
+
+
+
+Vishengel
+
+Een vishengel is een gereedschap dat hoofdzakelijk wordt gebruikt om vis te vangen.
+
+Inhoud
+
+    1 Verkrijgen
+        1.1 Maken
+        1.2 Vissen
+        1.3 Ruilen
+    2 Gebruiken
+        2.1 Vissen
+        2.2 Vangen van entiteiten
+        2.3 Andere gebruiken
+        2.4 Betoveringen
+    3 Video
+    4 Geschiedenis
+    5 Problemen
+    6 Trivia
+
+Verkrijgen
+
+Maken
+
+Een vishengel kan worden gemaakt van drie stokken en twee draden. Daarom is een vishengel een hernieuwbare bron.
+Ingrediënten    Stokken en draden  
+
+Vissen
+
+Betoverde vishengels kunnen worden opgevist als 'schatvoorwerp' en onbetoverde als 'rotzooi'.
+
+Ruilen
+
+Vissers verkopen één betoverde vishengel voor 7 tot 8 smaragden als hun level twee ruiloptie. De betoveringen zijn hetzelfde als de betoveringen die je kunt krijgen bij een betoveringstafel op level 5 tot 19.
+
+Gebruiken
+
+Vissen
+
+    Hoofdartikel: Vissen
+
+
+Een vishengel wordt hoofdzakelijk gebruikt om te vissen. Het vangen van een voorwerp kost één duurzaamheid, het binnenhalen terwijl de haak in de grond vastzit kost twee duurzaamheid en het binnenhalen terwijl de haak in het water is, kost geen duurzaamheid.
+
+
+Vangen van entiteiten
+
+De vishengel kan worden gebruikt om mobs en entiteiten vast te haken en kan daarna binnengehaald worden om zo de mob of het entiteit snel naar de speler te brengen. Dit telt niet als een aanval. Secundaire schade wordt toegediend als de mob of het entiteit hoog genoeg is om valschade te krijgen (alhoewel sommige mobs of entiteiten geen valschade kunnen krijgen). Vijanden kunnen ook in lava worden gedragen. Het binnenhalen terwijl de vishaak vastzit aan een voorwerp kost drie punten duurzaamheid en het binnenhalen terwijl de vishaak vastzit aan een entiteit kost vijf duurzaamheid. De vuurballen van een Ghast en Endermannen kunnen ook aande vishengel worden vastgezet.
+
+De vishengel kan worden gebruikt op mijnkarren en boten. De haak kan ook worden gebruikt om drukplaten in te drukken en schilderijen neer te halen van een afstand.
+
+Een vishengel gebruiken terwijl de speler in een mijnkar zit en naar de voorkant van de mijnkar wordt gekeken, zorgt ervoor dat de mijnkar meteen stopt en de speler eruit wordt gezet. Er wordt geen schade toegedient aan de speler of de mijnkar.
+
+
+Andere gebruiken
+
+Het gebruiken op dorpelingen zorgt ervoor dat de populariteit in het dorpje wordt verlaagd en dat IJzergolems die dichtbij staan de speler aanvallen. Spelers kunnen niet worden getrokken in PvP.
+Betoveringen
+
+Een vishengel kan de volgende betoveringen krijgen:
+
+    Lokaas
+    Geluk van de Zee
+    Duurzaamheid
+    Herstel[opmerking 1]
+
+    Alleen verkrijgbaar via betoverde boeken en een aambeeld.
+
+
+Geschiedenis
+
+Alpha
+1.1.1   Vishengels toegevoegd. Ze hadden geen functie en zijn stapelbaar.
+1.2.0   Vishengels geüpdatet om vis te vangen.
+Beta
+1.6     Vishengels zijn niet langer stapelbaar, omdat het stapelen van vishengels ervoor kon zorgen dat de damage value van de andere vishengels kon worden toegevoegd aan de eerste vishengel. Dit kon worden misbruikt om zo een vishengel te maken die voor altijd bleef.
+Een sprite toegevoegd van een vishengel zonder draad aan items.png, maar is ongebruikt.
+1.7     De sprite van 1.6 wordt nu gebruikt om tonen dat de vishengel geworpen is. Voor deze update werd de textuur van de stok gebruikt.
+Sound Update    Het geluid voor het werpen van de vishengel gewijzigd.
+Officiële release
+1.0.0   Geluid voor vishengels toegevoegd.
+1.3.1   12w17a  Vishengels hebben een oneindige duurzaamheid in Creative.
+1.4.2   12w36a  Wortel aan een stok toegevoegd en kan worden gemaakt door een vishengel en een wortel bij elkaar te voegen.
+12w37a  Vissen geeft de speler ervaringspunten als een vis wordt gevangen.
+1.4.6   12w49a  Vishengels kunnen worden betoverd met Duurzaamheid via betoverde boeken.
+1.7.2   13w36a  Vishengels hebben twee nieuwe betoveringen: Lokaas en Geluk van de Zee.
+Vishengels kunnen worden betoverd in een betoveringstafel.
+Betoverde vishengels kunnen worden opgevist als een schat en onbetoverde als rotzooi.
+1.9     15w31a  Uitgeworpen vishengels zien er uitgeworpen uit in de inventaris.
+15w32a  Beschadigd niet langer de Enderdraak.
+15w36a  Vishengels haken zich goed vast aan entiteiten.
+Binnenhalen terwijl de vishaak vastzit aan een entiteit dat geen voorwerp is, kost vijf duurzaamheid (hiervoor was het drie).
+Pocket Editie Alpha
+0.11.0  build 1     Vishengels toegevoegd.
+build 8     Als een vishengel gebruikt wordt op een entiteit die zit op een andere entiteit, zorgt het ervoor dat de verbinden tussen beide entiteiten verbroken wordt..
+build 11    Vishengels werken in de derde persoon.
+0.12.1  build 12    Vishengels maken minder herhalende geluiden.
+Console Editie
+TU1     CU1     1.0     Patch 1     Vishengels toegevoegd.
+
+Problemen
+
+Problemen met betrekking tot 'Vishengel' worden bijgehouden op Mojira. Rapporteer problemen daar.
+
+Trivia
+
+    De maximale afstand tussen de speler en de dobber is 33 blokken.
+    Skeletten kunnen in hun eigen pijl worden getrokken.
+    Wanneer de vishengel door een portaal heen geworpen wordt, kan de dobber erin zitten alsof het een normaal blok is, door de Nether heengaan, of stoppen het blok dat achter het portaal is.
+    Als je voor een pilaar staat en de vishengel naar een blok boven je uitwerpt, valt de lijn naar beneden.
+    Als de dobber een schilderij raakt, wordt het schilderij vernietigt.
+    Als je de vishengel uitwerpt door een Endportaal, verdwijnt de dobber en het visdraad.
+    De speler kan naar bed gaan terwijl de vishengel uitgeworpen is. De dobber blijft in het water totdat de speler weer wakker wordt.
+    Als de speler nog niet de prestatie 'Koeiendoder' heeft en een stuk leer vangt, wordt de prestatie alsnog gegeven.
+    De dobber van de vishengel heeft de naam unknown.
+    In de Pocket Editie is de dobber 3D.
+
+
+</body>
+</html>
